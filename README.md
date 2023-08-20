@@ -1,1 +1,2 @@
 # NLP
+Much like my Computer Vision repository this repository is for me to learn and improve in the feild of Natural Language Processing. Here I will be trying to implement a lot of code and try to implement SOTA papers while also making proper comments and documentation and also sources from where I read a particular thing, etc. Basically I will also be working a lot on my Documentation from now onwards.
